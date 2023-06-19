@@ -1,0 +1,8 @@
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.URLEncoderDecoder\TestConsole\bin\Debug\TestConsole.exe.config
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.URLEncoderDecoder\TestConsole\bin\Debug\TestConsole.exe
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.URLEncoderDecoder\TestConsole\bin\Debug\TestConsole.pdb
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.URLEncoderDecoder\TestConsole\bin\Debug\ArticPolar.Dev.URLEncoderDecoder.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.URLEncoderDecoder\TestConsole\bin\Debug\ArticPolar.Dev.URLEncoderDecoder.pdb
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.URLEncoderDecoder\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.URLEncoderDecoder\TestConsole\obj\Debug\TestConsole.exe
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.URLEncoderDecoder\TestConsole\obj\Debug\TestConsole.pdb

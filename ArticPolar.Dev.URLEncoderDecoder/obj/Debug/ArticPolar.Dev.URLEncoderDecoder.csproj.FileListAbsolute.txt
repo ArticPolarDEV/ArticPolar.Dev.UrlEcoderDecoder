@@ -1,0 +1,6 @@
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.URLEncoderDecoder\ArticPolar.Dev.URLEncoderDecoder\bin\Debug\ArticPolar.Dev.URLEncoderDecoder.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.URLEncoderDecoder\ArticPolar.Dev.URLEncoderDecoder\bin\Debug\ArticPolar.Dev.URLEncoderDecoder.pdb
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.URLEncoderDecoder\ArticPolar.Dev.URLEncoderDecoder\obj\Debug\ArticPolar.Dev.URLEncoderDecoder.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.URLEncoderDecoder\ArticPolar.Dev.URLEncoderDecoder\obj\Debug\ArticPolar.Dev.URLEncoderDecoder.pdb
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.URLEncoderDecoder\ArticPolar.Dev.URLEncoderDecoder\bin\Debug\ArticPolar.Dev.URLEncoderDecoder.dll.CodeAnalysisLog.xml
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.URLEncoderDecoder\ArticPolar.Dev.URLEncoderDecoder\bin\Debug\ArticPolar.Dev.URLEncoderDecoder.dll.lastcodeanalysissucceeded

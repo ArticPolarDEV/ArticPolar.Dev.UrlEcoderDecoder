@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>ArticPolar.Dev.UrlEcoderDecoder</id>
+    <version>2.0.0</version>
+    <title>ArticPolar.Dev.UrlEcoderDecoder</title>
+    <authors>ArticPolar Apps</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/JoseLucas1303/ArticPolar.Dev.UrlEcoderDecoder/</projectUrl>
+    <description>Encoder and Decoder Text to Browser Readable Format</description>
+    <releaseNotes>Added DecodeText() and change UrlEncode() to EncodeText()</releaseNotes>
+    <copyright>Copyright © ArticPolar 2023</copyright>
+    <tags>Strings Encoder Web URL Win32 DLL-Class</tags>
+  </metadata>
+</package>
